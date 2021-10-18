@@ -41,7 +41,8 @@
         plug_pairing_attr='none'
 
     # prefix indicator
-        plug_prefix='⌨ '            # U+2328
+        # ref symbols: 🔘 ⬆️   🎮 💦 🌕
+        plug_prefix='⭐️'
         plug_prefix_fg='none'
         plug_prefix_fg='none'
         plug_prefix_bg='none'
@@ -62,8 +63,8 @@
     # status left/right sections separators
         theme_left_sep_main="\ue0b4"
         theme_left_sep_sub="\ue0b5"
-        theme_right_sep_main="\ue0be"
-        theme_right_sep_sub="\ue0bf"
+        theme_right_sep_main="\ue0be "
+        theme_right_sep_sub="\ue0bf "
 
     # status line message
         theme_message_fg='#39393a'
